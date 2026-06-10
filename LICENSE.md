@@ -1,4 +1,4 @@
-# 
+# Automático LangChain predefinições. Com busca semântica e processamento de baixa latência — otimizado para máximo desempenho e eficiência.
 
 
 
